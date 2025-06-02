@@ -20,7 +20,7 @@
 ![Spark AR](https://img.shields.io/static/v1?label=&message=Spark%20AR&color=FF5C83&logo=Spark%20AR&logoColor=FFFFFF)
 ![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)
 
-* 🌍  Я живу в России
+* 🌍  Я живу в Республике Татарстан, город Казань
 * ✉️ Вы можете связаться со мной по адресу [olegavsim@gmail.com](mailto:olegavsim@gmail.com)
 * 🧠 Я изучаю Аналитику данных
 
