@@ -13,41 +13,8 @@
 !![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)| ![Нейросети](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/others/neural-network.svg) <br> Нейросети | ![Excel](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/microsoft/excel.svg) <br> Excel | ![SQL](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/database/sql.svg) <br> SQL |
-| --- | --- | --- |
-
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/others/neural-network.svg" width="48" alt="Нейросети"/><br>Нейросети
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/microsoft/excel.svg" width="48" alt="Excel"/><br>Excel
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/database/sql.svg" width="48" alt="SQL"/><br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/apache/spark.svg" width="48" alt="Pyspark"/><br>Pyspark
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/python/python.svg" width="48" alt="Python"/><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/python/pandas.svg" width="48" alt="Pandas"/><br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/python/matplotlib.svg" width="48" alt="Matplotlib"/><br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/python/seaborn.svg" width="48" alt="Seaborn"/><br>Seaborn
-    </td>
-  </tr>
-</table>
-
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)| ![Нейросети](https://cdn.jsdelivr.net/gh/Readme-
+![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) 
 * 🌍  Я живу в России
 * ✉️ Вы можете связаться со мной по адресу [olegavsim@gmail.com](mailto:olegavsim@gmail.com)
 * 🧠 Я изучаю Аналитику данных
