@@ -15,7 +15,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -30,6 +29,8 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/apache/spark.svg" width="48" alt="Pyspark"/><br>Pyspark
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/python/python.svg" width="48" alt="Python"/><br>Python
     </td>
@@ -43,34 +44,7 @@
       <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/python/seaborn.svg" width="48" alt="Seaborn"/><br>Seaborn
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/python/numpy.svg" width="48" alt="NumPy"/><br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/python/scipy.svg" width="48" alt="SciPy"/><br>SciPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/git/git.svg" width="48" alt="Git"/><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/common/github.svg" width="48" alt="GitHub"/><br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/analytics/yandex-metrika.svg" width="48" alt="Яндекс Метрика"/><br>Яндекс Метрика
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/analytics/google-analytics.svg" width="48" alt="Google Analytics"/><br>Google-аналитика
-    </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/28090004?s=200&v=4" width="48" alt="Data Lens"/><br>Data Lens
-    </td>
-    <td align="center" width="96">
-      <!-- пустая ячейка для выравнивания -->
-    </td>
-  </tr>
 </table>
-
 
 * 🌍  Я живу в России
 * ✉️ Вы можете связаться со мной по адресу [olegavsim@gmail.com](mailto:olegavsim@gmail.com)
