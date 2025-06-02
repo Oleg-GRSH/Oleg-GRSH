@@ -14,6 +14,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/others/neural-network.svg" width="48" alt="Нейросети"/>
+  <br>Нейросети
+</p>
 
 
 
