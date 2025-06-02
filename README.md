@@ -13,7 +13,9 @@
 !![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)| ![Нейросети](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/others/neural-network.svg) <br> Нейросети | ![Excel](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/microsoft/excel.svg) <br> Excel | ![SQL](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/database/sql.svg) <br> SQL |
+| --- | --- | --- |
+
 
 <table>
   <tr>
